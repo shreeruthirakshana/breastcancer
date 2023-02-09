@@ -3,6 +3,7 @@ The process of mapping images involves using a reference number along with a tex
 The reference number acts as a key, allowing each image to be linked to a specific record in the text file(INFO .txt).
  
  The text file includes following fields:
+          
           1st column: MIAS database reference number.
 
           2nd column: Character of background tissue: 
