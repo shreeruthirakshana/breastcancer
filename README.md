@@ -1,6 +1,6 @@
 # breastcancer
 The process of mapping images involves using a reference number along with a text file to associate each image with a specific identifier. 
-The reference number acts as a key, allowing each image to be linked to a specific record in the text file.
+The reference number acts as a key, allowing each image to be linked to a specific record in the text file(INFO .txt).
  
  The text file includes following fields:
           1st column: MIAS database reference number.
